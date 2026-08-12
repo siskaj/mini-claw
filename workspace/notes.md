@@ -1,0 +1,1 @@
+Poznámky o Everettově interpretaci.
