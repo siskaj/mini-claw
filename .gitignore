@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.pyre/
+.python-version
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Editor and OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Lock files
+pip-wheel-metadata/
